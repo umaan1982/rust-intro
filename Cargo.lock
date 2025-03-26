@@ -825,6 +825,7 @@ version = "0.1.0"
 dependencies = [
  "chrono 0.2.25",
  "nickel",
+ "tokio",
 ]
 
 [[package]]

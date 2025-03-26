@@ -6,6 +6,7 @@ edition = "2024"
 [dependencies]
 
 chrono = "0.2"
+tokio = "1"
 
 [dependencies.nickel]
 
